@@ -5,11 +5,11 @@
 
 ## Requirements
 * Python 3.9.6
-* `BOT_NAME` variable - yout tg bot name without @ where you have deployed and running anibot, like 'hanabi_anibot'
+* `BOT_NAME` variable - yout tg bot name without @ where you have deployed and running anibot, like 'hanabi bot'
 * `DB_URL` variable - mongodb url used in anibot deployment
 
 
 ## Deploy
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/lostb053/anilist_oauth_webserver)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/FE-N-X/anilist_oauth_webserver)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lostb053/anilist_oauth_webserver)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FE-N-X/anilist_oauth_webserver)
